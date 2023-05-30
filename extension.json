@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "OCDS Document Publisher Extension"
+    "en": "Document Publisher"
   },
   "description": {
     "en": "Adds a publisher field to the document object."
