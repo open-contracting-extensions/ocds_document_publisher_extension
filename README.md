@@ -1,4 +1,4 @@
-# OCDS Document Publisher Extension
+# Document publisher
 
 Adds a `publisher` field to the `Document` object to reference the organization responsible for making the document available.
 
