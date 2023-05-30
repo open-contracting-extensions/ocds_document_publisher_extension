@@ -1,1 +1,13 @@
-{}
+{
+  "definitions": {
+    "Document": {
+      "properties": {
+        "publisher": {
+          "title": "Publisher",
+          "$ref": "#/definitions/OrganizationReference",
+          "description": "The organization responsible for making the document available."
+        }
+      }
+    }
+  }
+}
