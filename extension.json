@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "Document Publisher"
+    "en": "Document publisher"
   },
   "description": {
     "en": "Adds a publisher field to the document object."
