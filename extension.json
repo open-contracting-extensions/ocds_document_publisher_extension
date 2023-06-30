@@ -11,11 +11,11 @@
   "schemas": [
     "release-schema.json"
   ],
+  "codelists": [
+    "+partyRole.csv"
+  ],
   "compatibility": [
     "1.1"
-  ],
-  "testDependencies": [
-    "https://raw.githubusercontent.com/open-contracting-extensions/ocds_eu_extension/1.1/extension.json"
   ],
   "contactPoint": {
     "name": "Open Contracting Partnership",
