@@ -8,7 +8,7 @@ For each organization referenced by a `Document.publisher` field, add the 'infor
 
 ## Legal context
 
-In the European Union, this extension's fields correspond to [eForms OPT-301 (Party ID reference)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/). For correspondences to eForms fields, see [OCDS for eForms](https://standard.open-contracting.org/profiles/eforms/latest/).
+In the European Union, this extension's fields correspond to [eForms OPT-301 (Party ID reference)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/). For correspondences to eForms fields, see [OCDS for eForms](https://standard.open-contracting.org/profiles/eforms/latest/en/).
 
 ## Example
 
